@@ -82,7 +82,7 @@ More colors available for plotting Vectors
 
 ### Updates (0.2.8)
 
-Minor bug fixes
+`Vector.random(mod)` is now a staticmethod
 
 ## Footnotes
 
