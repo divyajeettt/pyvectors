@@ -86,7 +86,8 @@ More colors available for plotting Vectors
 
 ## Footnotes
 
-The project does not (yet) use private/read-only class attributes available in Python where they ideally should be.
+- The project does not (yet) use private/read-only class attributes available in Python where they ideally should be.
+- classmethods `ExceptionNull(*vectors)` and `ExceptionVector(*vectors)` are not meant for use
 
 ## Run
 
