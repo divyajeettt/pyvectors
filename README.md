@@ -5,7 +5,7 @@
 pyvectors is a mathematical module providing (real) 3-dimensional position Vectors centered at the Origin as Python objects through a class called `Vector`.
 
 *Date of creation:* `September 27, 2020` \
-*Date of first release on [PyPI](https://pypi.org/):* `April 29, 2021`
+*Date of first release on [PyPI](https://pypi.org/project/pyvectors/):* `April 29, 2021`
 
 Using this module, vector algebra can be performed fairly easily in Python. It allows a user to plot Vectors on a 3D plot, and can be used as a learning tool to enhance a student's 3D visualization capabilities. 
 
