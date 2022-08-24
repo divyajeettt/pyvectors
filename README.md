@@ -94,7 +94,7 @@ More colors available for plotting Vectors
 To use, execute:
 
 ```
-pip install pyvectors
+pip3 install pyvectors
 ```
 
 Import the class `Vector` in your project, wherever needed, using:
